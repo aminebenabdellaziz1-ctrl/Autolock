@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AutoLockApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(AutoLockApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(AutoLockApplication.class, args);
+    }
 
 }
